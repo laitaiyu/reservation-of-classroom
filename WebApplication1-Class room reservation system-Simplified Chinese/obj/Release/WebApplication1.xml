@@ -1,0 +1,27 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+WebApplication1
+</name>
+</assembly>
+<members>
+<member name="T:WebApplication1.nssh.TeacherDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:WebApplication1.nssh.TeacherRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:WebApplication1.nssh.TeacherRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:WebApplication1.nssh">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+</members>
+</doc>

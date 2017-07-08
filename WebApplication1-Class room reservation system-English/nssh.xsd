@@ -1,0 +1,27 @@
+<?xml version="1.0" standalone="yes"?>
+<xs:schema id="nssh" targetNamespace="http://www.tempuri.org/nssh.xsd" xmlns:mstns="http://www.tempuri.org/nssh.xsd" xmlns="http://www.tempuri.org/nssh.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:element name="nssh" msdata:IsDataSet="true" msdata:Locale="EN-US">
+    <xs:complexType>
+      <xs:choice maxOccurs="unbounded">
+        <xs:element name="Teacher">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="T-ADD_1" type="xs:string" minOccurs="0" />
+              <xs:element name="T-ADD_2" type="xs:string" minOccurs="0" />
+              <xs:element name="T-ID" msdata:AutoIncrement="true" type="xs:int" />
+              <xs:element name="T-Name_CHT" type="xs:string" minOccurs="0" />
+              <xs:element name="T-Name_ENG" type="xs:string" minOccurs="0" />
+              <xs:element name="T-TEL_Cellphone" type="xs:string" minOccurs="0" />
+              <xs:element name="T-TEL_Home" type="xs:string" minOccurs="0" />
+              <xs:element name="T-TEL_Office" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:Teacher" />
+      <xs:field xpath="mstns:T-ID" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>

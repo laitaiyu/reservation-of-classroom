@@ -1,0 +1,17 @@
+C:\inetpub\wwwroot\WebApplication1\bin\WebApplication1.dll
+C:\inetpub\wwwroot\WebApplication1\bin\WebApplication1.xml
+C:\inetpub\wwwroot\WebApplication1\obj\Release\WebApplication1.Admin_OrderList.resources
+C:\inetpub\wwwroot\WebApplication1\obj\Release\WebApplication1.Admin_Class.resources
+C:\inetpub\wwwroot\WebApplication1\obj\Release\WebApplication1.Admin_Item.resources
+C:\inetpub\wwwroot\WebApplication1\obj\Release\WebApplication1.Admin_Book.resources
+C:\inetpub\wwwroot\WebApplication1\obj\Release\WebApplication1.Admin_PhotoStudio.resources
+C:\inetpub\wwwroot\WebApplication1\obj\Release\WebApplication1.Admin_Teacher.resources
+C:\inetpub\wwwroot\WebApplication1\obj\Release\WebApplication1.Admin.resources
+C:\inetpub\wwwroot\WebApplication1\obj\Release\WebApplication1.Global.resources
+C:\inetpub\wwwroot\WebApplication1\obj\Release\WebApplication1.WebForm1.resources
+C:\inetpub\wwwroot\WebApplication1\obj\Release\WebApplication1.Teacher_History.resources
+C:\inetpub\wwwroot\WebApplication1\obj\Release\WebApplication1.Teacher.resources
+C:\inetpub\wwwroot\WebApplication1\obj\Release\WebApplication1.Teacher_Order.resources
+C:\inetpub\wwwroot\WebApplication1\obj\Release\web-nssh.vbproj.GenerateResource.Cache
+C:\inetpub\wwwroot\WebApplication1\obj\Release\WebApplication1.dll
+C:\inetpub\wwwroot\WebApplication1\obj\Release\WebApplication1.xml
